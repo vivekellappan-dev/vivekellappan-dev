@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-sowndar" alt="dinesh-sowndar" /></a> </p>
 
-- 🌱 I’m currently learning **React, NextJS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dinesh-Sowndar/](https://github.com/Dinesh-Sowndar/)
+- 🌱 I’m currently learning **Blockchain, Solidity**
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **dineshsowndar@gmail.com**
+- 📫 How to reach me **vivekebiit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
